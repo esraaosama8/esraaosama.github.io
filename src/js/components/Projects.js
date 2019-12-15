@@ -5,24 +5,20 @@ class Projects extends React.Component {
             <table className="table table-bordered table-striped">
                 <tbody>
                 <tr>
-                    <td><a href="https://github.com/ms10596/match" target="_blank">match</a></td>
-                    <td> My graduation project is based on a popular natural language processing problem which is Text
-                        Readability Assessment. We aim in this project to classify any given text to one of 3 levels
-                        Easy, Intermediate and hard. We are using OneStopEnglish corpus to build our deep learning
-                        model. All text processing, learning and deployment is done using <b>Python</b>.
+                    <td><a href="https://github.com/esraaosama8/galesak" target="_blank">Galesak</a></td>
+                    <td> Galesak is a website that my graduation team and I had developed to provide services on finding suitable assistants and sitters to make it easy and fast for people to get the right assist they need that's near them.
+        The project has been deployed using <b>NetBeans Framework</b>,<b> Java Servelts</b>, <b>HTML5</b>, <b>CSS</b>,<b> Bootstrap </b>, <b>JQuery</b>, and <b>MySQL</b> Database.
                     </td>
                 </tr>
                 <tr>
                     <td><a href="https://www.behance.net/gallery/87314609/Care4u" target="_blank">Care4u</a></td>
-                    <td> TV series management system using <b>Python</b>-Flask as a micro
-                        framework, <b>SqlAlchemy</b> as a operational relational mapping and <b>Amazon Web
-                            Services</b> for deployment.
+                    <td> This is a project that I have developed for my UI/UX specialization course using <b>Adobe XD</b> tools.
                     </td>
                 </tr>
                 <tr>
                     <td><a href="https://esraa136915.invisionapp.com/public/share/QMWTY558E" target="_blank">Hens</a>
                     </td>
-                    <td> Simple single page resume using <b>HTML</b>, <b>CSS</b> and <b>Bootstrap</b>. Every card in that resume is a separate <b>react</b> component for easy manipulation and reusability.
+                    <td> This is a prototype for an abstract restaurant website I have made using <b>Balsamiq</b> and <b>InVision</b>.
                     </td>
                 </tr>
                 </tbody>

@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1355df84-08a8-4b47-9431-22c7a4750627" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/agolo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/svg/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/svg/me.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Bio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Bio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Certificates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Certificates.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Languages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Languages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Milestones.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Milestones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Tools.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Tools.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,15 +61,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/components/Projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="115">
+              <caret line="9" column="169" selection-start-line="9" selection-start-column="169" selection-end-line="9" selection-end-column="169" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/img/svg/me.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -211,7 +197,7 @@
       <workItem from="1570274112962" duration="5000" />
       <workItem from="1573302131734" duration="37000" />
       <workItem from="1573302189313" duration="18000" />
-      <workItem from="1576431012325" duration="5346000" />
+      <workItem from="1576431012325" duration="8306000" />
     </task>
     <task id="LOCAL-00001" summary="change title name">
       <created>1576431204105</created>
@@ -220,11 +206,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576431204105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change programming languages &#10;change skills and tools&#10;change bio&#10;change milestones&#10;change project edit 1&#10;change footer&#10;change certificates&#10;change intro">
+      <created>1576441555205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576441555205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6261000" />
+    <option name="totallyTimeSpent" value="9221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -258,7 +251,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change title name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title name" />
+    <MESSAGE value="change programming languages &#10;change skills and tools&#10;change bio&#10;change milestones&#10;change project edit 1&#10;change footer&#10;change certificates&#10;change intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="change programming languages &#10;change skills and tools&#10;change bio&#10;change milestones&#10;change project edit 1&#10;change footer&#10;change certificates&#10;change intro" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -355,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/Projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="115">
+          <caret line="9" column="169" selection-start-line="9" selection-start-column="169" selection-end-line="9" selection-end-column="169" />
         </state>
       </provider>
     </entry>
