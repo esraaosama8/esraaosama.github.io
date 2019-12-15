@@ -18,7 +18,7 @@ class Projects extends React.Component {
                 <tr>
                     <td><a href="https://esraa136915.invisionapp.com/public/share/QMWTY558E" target="_blank">Hens</a>
                     </td>
-                    <td> This is a prototype for an abstract restaurant website I have made using <b>Balsamiq</b> and <b>InVision</b>.
+                    <td> This is a clickable prototype for an abstract restaurant website I have made using <b>Balsamiq</b> and <b>InVision</b>.
                     </td>
                 </tr>
                 </tbody>
