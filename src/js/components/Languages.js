@@ -4,9 +4,9 @@ class Languages extends React.Component {
             <div className="card-title card-header"><i className="fas fa-code"/> Programming Languages</div>
             <table className="table table-bordered table-striped">
                 <tbody>
-                <tr><td>Python</td></tr>
-                <tr><td>Java</td></tr>
                 <tr><td>C++</td></tr>
+                <tr><td>JavaScript</td></tr>
+                <tr><td>Java</td></tr>
                 </tbody>
             </table>
         </div>)

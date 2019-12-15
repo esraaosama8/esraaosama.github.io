@@ -5,30 +5,19 @@ class Certificates extends React.Component {
             </div>
             <table className="table table-bordered">
                 <tbody>
-                <tr>
-                    <td className="text-center"><img
-                        src="./src/img/svg/deeplearning-ai-icon.png" width="25" title="Deeplearning.ai"/></td>
-                    <td><a
-                        href="https://www.coursera.org/account/accomplishments/specialization/certificate/RF6JN7X9PNGR"> Deep
-                        Learning Specialization</a></td>
-                </tr>
+            <tr>
+            <td className="text-center"><img src="./src/img/svg/udacity.svg" width="25" title="Udacity" style={{webkitFilter: "grayscale(80%)"}}/>
+        </td>
+        <td><a href="https://graduation.udacity.com/confirm/RVLRPMLH">Front-End Web Developer NANODEGREE</a></td>
+        </tr>
                 <tr>
                     <td className="text-center"><img
                         src="./src/img/svg/coursera.png" width="25" title="Coursera"/>
                     </td>
                     <td><a
-                        href="https://www.coursera.org/account/accomplishments/certificate/GTHY9XTXZ75Q"> Machine
-                        Learning by
-                        Stanford
-                        University</a></td>
+                        href="https://www.coursera.org/account/accomplishments/specialization/KAWRMFGB24YE"> UI / UX Design Specialization</a></td>
                 </tr>
-                <tr>
-                    <td className="text-center"><img src="./src/img/svg/udacity.svg" width="25" title="Udacity" style={{webkitFilter: "grayscale(80%)"}}/>
-                </td>
-                <td><a href="https://graduation.udacity.com/confirm/6YYLUWEA"> Full Stack Web
-                    Development
-                    Nanodegree</a></td>
-            </tr>
+
         </tbody>
     </table></div>
     )

@@ -1,19 +1,18 @@
 class Intro extends React.Component {
     render() {
         return (<div className="card mt-3">
-            <h1 className="card-title card-header text-dark">Mohamed Sayed</h1>
-            <h4 className="font-italic font-weight-light text-center mt-2">Computer Scientist</h4>
+            <h1 className="card-title card-header text-dark">Esraa Osama</h1>
             <table className="table table-bordered mt-1">
                 <tbody>
                     <tr>
-                        <td colSpan={2}><i className="fas fa-phone fa-lg" /> +201146613779</td>
+                        <td colSpan={2}><i className="fas fa-phone fa-lg" /> +201011544812</td>
                     </tr>
                     <tr>
-                        <td colSpan={2}><i className="fas fa-home fa-lg" /> 2XMM+83 Sheikh Zayed City
+                        <td colSpan={2}><i className="fas fa-home fa-lg" /> Giza, Sheikh Zayed City
                     </td>
                     </tr>
                     <tr>
-                        <td colSpan={2}><i className="fas fa-envelope fa-lg" /> ms10596@gmail.com</td>
+                        <td colSpan={2}><i className="fas fa-envelope fa-lg" /> souhashem8@gmail.com</td>
                     </tr>
                 </tbody>
             </table>
@@ -23,9 +22,9 @@ class Intro extends React.Component {
             <div className="mt-1" />
 
             <div className="btn-group btn-group-lg">
-                <a className="btn btn-outline-dark" href="https://www.github.com/ms10596" target="_blank"
+                <a className="btn btn-outline-dark" href="https://www.github.com/esraaosama8" target="_blank"
                     style={{ width: "50%" }}><i className="fab fa-github fa-lg" /></a>
-                <a className="btn btn-outline-dark" href="https://www.linkedin.com/in/ms10596" target="_blank"
+                <a className="btn btn-outline-dark" href="https://www.linkedin.com/in/esraaosama8" target="_blank"
                     style={{ width: "50%" }}><i className="fab fa-linkedin fa-lg" /></a>
             </div>
             <div className="mt-1" />
