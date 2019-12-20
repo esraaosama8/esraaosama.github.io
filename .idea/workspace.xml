@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1355df84-08a8-4b47-9431-22c7a4750627" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Projects.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/components/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/components/Milestones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="414">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/components/Projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="9" column="169" selection-start-line="9" selection-start-column="169" selection-end-line="9" selection-end-column="169" />
+            <state relative-caret-position="368">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -197,7 +196,8 @@
       <workItem from="1570274112962" duration="5000" />
       <workItem from="1573302131734" duration="37000" />
       <workItem from="1573302189313" duration="18000" />
-      <workItem from="1576431012325" duration="8306000" />
+      <workItem from="1576431012325" duration="8569000" />
+      <workItem from="1576872158883" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="change title name">
       <created>1576431204105</created>
@@ -213,11 +213,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576441555205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change projects">
+      <created>1576445675914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576445675914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9221000" />
+    <option name="totallyTimeSpent" value="9799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -252,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change title name" />
     <MESSAGE value="change programming languages &#10;change skills and tools&#10;change bio&#10;change milestones&#10;change project edit 1&#10;change footer&#10;change certificates&#10;change intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="change programming languages &#10;change skills and tools&#10;change bio&#10;change milestones&#10;change project edit 1&#10;change footer&#10;change certificates&#10;change intro" />
+    <MESSAGE value="change projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="change projects" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -277,9 +285,7 @@
     <entry file="file://$PROJECT_DIR$/src/img/overlays/03.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/svg/agolo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/svg/agolo.png" />
     <entry file="file://$PROJECT_DIR$/src/img/overlays/01.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -309,15 +315,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/svg/me.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/svg/me.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/Intro.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -335,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/Milestones.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="414">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -347,10 +353,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/components/Projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="169" selection-start-line="9" selection-start-column="169" selection-end-line="9" selection-end-column="169" />
+        <state relative-caret-position="368">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
