@@ -4,6 +4,11 @@ class Projects extends React.Component {
             <div className="card-title card-header"><i className="fas fa-tasks"/> Recent Projects</div>
             <table className="table table-bordered table-striped">
                 <tbody>
+            <tr>
+            <td><a href="https://github.com/esraaosama8/portfolio-98" target="_blank">Discover Egypt</a></td>
+        <td> Discover Egypt is a one page portfolio theme created by <b>Bootstrap Framework</b>. This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals and a responsive timeline.
+        </td>
+        </tr>
                 <tr>
                     <td><a href="https://github.com/esraaosama8/galesak" target="_blank">Galesak</a></td>
                     <td> Galesak is a website that my graduation team and I had developed to provide services on finding suitable assistants and sitters to make it easy and fast for people to get the right assist they need that's near them.
