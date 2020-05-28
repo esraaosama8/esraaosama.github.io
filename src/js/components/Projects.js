@@ -4,6 +4,12 @@ class Projects extends React.Component {
             <div className="card-title card-header"><i className="fas fa-tasks"/> Recent Projects</div>
             <table className="table table-bordered table-striped">
                 <tbody>
+                    <tr>
+            <td><a href="https://github.com/esraaosama8/UdaciCards" target="_blank">UdaciCards</a></td>
+        <td> 
+         An app focuses on building a "Mobile Flashcards" app using <b> React Native </b> with <b>Expo</b> Platform. The application allows a user to create a deck of flash cards, each capturing a question and answer for the deck's topic. The user can then start a quiz to test their knowledge of a particular topic.
+        </td>
+        </tr>
             <tr>
             <td><a href="http://portfolio-98.byethost24.com/" target="_blank">Discover Egypt</a></td>
         <td> Discover Egypt is a one page portfolio website that I have developed, hosted and created by <b>Bootstrap Framework</b>. The website features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals and a responsive timeline.
