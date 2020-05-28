@@ -1,7 +1,7 @@
 class Intro extends React.Component {
     render() {
         return (<div className="card mt-3">
-            <h1 className="card-title card-header text-dark">Esraa Osama</h1>
+            <h1 className="card-title card-header text-dark">Esraa Osama Abdelraouf</h1>
             <table className="table table-bordered mt-1">
                 <tbody>
                     <tr>
