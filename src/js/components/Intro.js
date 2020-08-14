@@ -8,7 +8,7 @@ class Intro extends React.Component {
                         <td colSpan={2}><i className="fas fa-phone fa-lg" /> +201011544812</td>
                     </tr>
                     <tr>
-                        <td colSpan={2}><i className="fas fa-home fa-lg" /> Giza, Sheikh Zayed City
+                        <td colSpan={2}><i className="fas fa-home fa-lg" /> Giza, Al-Sheikh Zayed City
                     </td>
                     </tr>
                     <tr>
