@@ -2,6 +2,8 @@ class Intro extends React.Component {
     render() {
         return (<div className="card mt-3">
             <h1 className="card-title card-header text-dark">Esraa Osama Abdelraouf</h1>
+                <img className="card-img-bottom" src="./src/img/svg/me.jpeg" alt="me" />
+            {/*<img src="./src/img/svg/me2.jpg" alt="me"/>*/}
             <table className="table table-bordered mt-1">
                 <tbody>
                     <tr>
@@ -16,8 +18,8 @@ class Intro extends React.Component {
                     </tr>
                 </tbody>
             </table>
-            <img className="card-img-bottom" src="./src/img/svg/me.jpeg" alt="me" />
-            {/*<img src="./src/img/svg/me2.jpg" alt="me"/>*/}
+//             <img className="card-img-bottom" src="./src/img/svg/me.jpeg" alt="me" />
+//             {/*<img src="./src/img/svg/me2.jpg" alt="me"/>*/}
 
             <div className="mt-1" />
 
