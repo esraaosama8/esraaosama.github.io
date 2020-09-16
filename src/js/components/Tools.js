@@ -20,17 +20,24 @@ class Tools extends React.Component {
                 <tr>
                     <td>CSS3</td>
                 </tr>
+                    <tr>
+        <td>Content Creation</td>
+        </tr>
+                    <tr>
+        <td>Email Marketing</td>
+        </tr>
                 <tr>
                     <td>HTML5</td>
                 </tr>
                   <tr>
         <td>InVision</td>
         </tr>
-                         <tr>
-        <td>Reactjs</td>
-        </tr>
+                        
                          <tr>
         <td>React Native</td>
+        </tr>
+                    <tr>
+        <td>Social Media Marketing</td>
         </tr>
                          <tr>
         <td>Responsive Web Design</td>
