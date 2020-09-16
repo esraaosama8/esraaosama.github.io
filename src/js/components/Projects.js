@@ -4,6 +4,12 @@ class Projects extends React.Component {
             <div className="card-title card-header"><i className="fas fa-tasks"/> Recent Projects</div>
             <table className="table table-bordered table-striped">
                 <tbody>
+                 <tr>
+            <td><a href="http://shorturl.at/dlAM9" target="_blank">DMND</a></td>
+        <td> 
+        One of Digital Marketing Program projects and that is a blog I shared on <b>Medium</b> about why I think enrolling in this course with Udacity, in particular, is a gem! 
+        </td>
+        </tr>
                     <tr>
             <td><a href="https://github.com/esraaosama8/UdaciCards" target="_blank">UdaciCards</a></td>
         <td> 
