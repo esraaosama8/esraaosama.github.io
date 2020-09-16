@@ -15,6 +15,13 @@ class Certificates extends React.Component {
         </td>
         <td><a href="https://graduation.udacity.com/confirm/6H6UK65L">React Developer Nanodegree Program</a></td>
         </tr>
+                  <tr>
+                    <td className="text-center"><img
+                        src="./src/img/svg/coursera.png" width="25" title="Coursera"/>
+                    </td>
+                    <td><a
+                        href="https://www.coursera.org/account/accomplishments/specialization/KAWRMFGB24YE"> UI / UX Design Specialization</a></td>
+                </tr>
             <tr>
             <td className="text-center"><img src="./src/img/svg/coursera.png" width="25" title="Coursera"/>
             </td>
@@ -26,13 +33,7 @@ class Certificates extends React.Component {
         </td>
         <td><a href="https://graduation.udacity.com/confirm/RVLRPMLH">Front-End Web Developer NANODEGREE</a></td>
         </tr>
-                <tr>
-                    <td className="text-center"><img
-                        src="./src/img/svg/coursera.png" width="25" title="Coursera"/>
-                    </td>
-                    <td><a
-                        href="https://www.coursera.org/account/accomplishments/specialization/KAWRMFGB24YE"> UI / UX Design Specialization</a></td>
-                </tr>
+              
 
         </tbody>
     </table></div>
