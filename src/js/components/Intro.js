@@ -16,7 +16,7 @@ class Intro extends React.Component {
                     </tr>
                 </tbody>
             </table>
-            <img className="card-img-bottom" src="./src/img/svg/me.jpg" alt="me" />
+            <img className="card-img-bottom" src="./src/img/svg/me.jpeg" alt="me" />
             {/*<img src="./src/img/svg/me2.jpg" alt="me"/>*/}
 
             <div className="mt-1" />
