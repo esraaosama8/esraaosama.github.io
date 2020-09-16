@@ -18,7 +18,7 @@ class Intro extends React.Component {
                     </tr>
                 </tbody>
             </table>
-//image source was here
+                       {/*Image source was here*/}
 
             <div className="mt-1" />
 
