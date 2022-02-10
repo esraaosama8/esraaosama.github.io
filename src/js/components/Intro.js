@@ -6,9 +6,9 @@ class Intro extends React.Component {
             {/*<img src="./src/img/svg/me2.jpg" alt="me"/>*/}
             <table className="table table-bordered mt-1">
                 <tbody>
-                    <tr>
-                        <td colSpan={2}><i className="fas fa-phone fa-lg" /> +201011544812</td>
-                    </tr>
+//                     <tr>
+//                         <td colSpan={2}><i className="fas fa-phone fa-lg" /> +201011544812</td>
+//                     </tr>
                     <tr>
                         <td colSpan={2}><i className="fas fa-home fa-lg" /> Giza, Al-Sheikh Zayed City
                     </td>
