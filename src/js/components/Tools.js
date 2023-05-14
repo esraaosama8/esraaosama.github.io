@@ -33,9 +33,9 @@ class Tools extends React.Component {
         <td>InVision</td>
         </tr>
                         
-    //                     <tr>
-    //    <td>React Native</td>
-     //   </tr>
+    /*                     <tr>
+       <td>React Native</td>
+       </tr> */
                     <tr>
         <td>Social Media Marketing</td>
         </tr>
