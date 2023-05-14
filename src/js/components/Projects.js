@@ -5,7 +5,7 @@ class Projects extends React.Component {
             <table className="table table-bordered table-striped">
                 <tbody>
                  <tr>
-            <td><a href="http://shorturl.at/dlAM9" target="_blank">DMND</a></td>
+            <td><a href="https://medium.com/@souhashem8/why-i-enrolled-in-digital-marketing-at-udacity-601db8f163ce" target="_blank">DMND</a></td>
         <td> 
         One of Digital Marketing Program projects and that is a blog I shared on <b>Medium</b> about why I think enrolling in this course with Udacity, in particular, is a gem! 
         </td>
