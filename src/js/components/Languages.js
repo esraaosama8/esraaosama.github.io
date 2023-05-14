@@ -12,3 +12,4 @@
     }
 }
 ReactDOM.render(React.createElement(Languages), document.querySelector('#languages'));
+*/
