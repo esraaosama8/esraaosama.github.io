@@ -1,4 +1,4 @@
-class Languages extends React.Component {
+/*class Languages extends React.Component {
     render() {
         return(<div className="card mt-3">
             <div className="card-title card-header"><i className="fas fa-code"/> Programming Languages</div>
